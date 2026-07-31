@@ -1,4 +1,7 @@
-# Kenya Bioinfo Tool - FASTA Analyzer
+🚀 Live App: [kenya-bioinfo-tool.streamlit.app](PASTE_YOUR_LINK_HERE)
+
+Python bioinformatics web app for FASTA analysis - GC%, motifs, visualization.
+Built for ICIPE attachment application.# Kenya Bioinfo Tool - FASTA Analyzer
 Python tool for analyzing DNA sequences from NCBI - Built for ICIPE Bioinformatics attachment application.
 
 ## What it does
